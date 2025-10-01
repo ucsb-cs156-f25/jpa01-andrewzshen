@@ -1,6 +1,6 @@
 # jpa01-andrewzshen
 
-Deployed at: https://jpa01-andrewzshen.dokku-06.cs.ucsb.edu
+https://jpa01-andrewzshen.dokku-06.cs.ucsb.edu
 
 # About this repo
 
